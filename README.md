@@ -5,7 +5,7 @@
 ![Coverage](https://img.shields.io/badge/Coverage-85%25-green?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 ![OOP](https://img.shields.io/badge/OOP-100%25-blueviolet?style=flat)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=flat)
+
 
 A comprehensive Object-Oriented Programming (OOP) project implementing a fully functional bank management system in Java. This system demonstrates core OOP principles including inheritance, polymorphism, encapsulation, and abstraction.
 
